@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite"  thread-count="5" parallel="tests">
+  <test name="Test-Runner-1">
+    <classes>
+      <class name="com.acttime.reporttest.ReportTest"/>
+       </classes>
+  </test> <!-- Test -->
+  <test name="Test-Runner-2">
+  <classes>
+ 
+  <class name="com.acttime.customTest.CustomerTest"/>
+   </classes>
+   </test>
+</suite> <!-- Suite -->

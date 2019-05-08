@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25279" started-at="2019-05-07T06:21:49Z" finished-at="2019-05-07T06:22:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25279" started-at="2019-05-07T06:21:49Z" finished-at="2019-05-07T06:22:14Z">
+      <class name="com.acttime.customertest.CutomerTestObjRepo">
+        <test-method status="PASS" signature="configBeforeSuite()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="configBeforeSuite" is-config="true" duration-ms="15" started-at="2019-05-07T06:21:49Z" finished-at="2019-05-07T06:21:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeSuite -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="configBC" is-config="true" duration-ms="6607" started-at="2019-05-07T06:21:49Z" finished-at="2019-05-07T06:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="configBM" is-config="true" duration-ms="3400" started-at="2019-05-07T06:21:56Z" finished-at="2019-05-07T06:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerTest()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="createCustomerTest" duration-ms="3700" started-at="2019-05-07T06:21:59Z" finished-at="2019-05-07T06:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="configAM" is-config="true" duration-ms="3211" started-at="2019-05-07T06:22:03Z" finished-at="2019-05-07T06:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="configBM" is-config="true" duration-ms="3361" started-at="2019-05-07T06:22:06Z" finished-at="2019-05-07T06:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerwithDescTest()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="createCustomerwithDescTest" duration-ms="1551" started-at="2019-05-07T06:22:09Z" finished-at="2019-05-07T06:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerwithDescTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="configAM" is-config="true" duration-ms="3245" started-at="2019-05-07T06:22:11Z" finished-at="2019-05-07T06:22:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.acttime.customertest.CutomerTestObjRepo@1ce4f0a]" name="configAC" is-config="true" duration-ms="171" started-at="2019-05-07T06:22:14Z" finished-at="2019-05-07T06:22:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.acttime.customertest.CutomerTestObjRepo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
